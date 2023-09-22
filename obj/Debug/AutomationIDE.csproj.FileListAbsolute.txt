@@ -1,0 +1,87 @@
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\chromedriver.exe
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\AutomationIDE.exe.config
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\AutomationIDE.exe
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\AutomationIDE.pdb
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\AutomationIDELibrary.dll
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\WebDriver.dll
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\AutomationIDELibrary.pdb
+D:\Xenial\VS Repos\AutomationIDE\bin\Debug\WebDriver.xml
+D:\Xenial\VS Repos\AutomationIDE\obj\Debug\AutomationIDE.csprojAssemblyReference.cache
+D:\Xenial\VS Repos\AutomationIDE\obj\Debug\AutomationIDE.AutomationIde.resources
+D:\Xenial\VS Repos\AutomationIDE\obj\Debug\AutomationIDE.Properties.Resources.resources
+D:\Xenial\VS Repos\AutomationIDE\obj\Debug\AutomationIDE.csproj.GenerateResource.cache
+D:\Xenial\VS Repos\AutomationIDE\obj\Debug\AutomationIDE.csproj.CoreCompileInputs.cache
+D:\Xenial\VS Repos\AutomationIDE\obj\Debug\AutomationIDE.csproj.CopyComplete
+D:\Xenial\VS Repos\AutomationIDE\obj\Debug\AutomationIDE.exe
+D:\Xenial\VS Repos\AutomationIDE\obj\Debug\AutomationIDE.pdb
+E:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csprojAssemblyReference.cache
+E:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.AutomationIde.resources
+E:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.Properties.Resources.resources
+E:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.GenerateResource.cache
+E:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.CoreCompileInputs.cache
+E:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.exe
+E:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.pdb
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\chromedriver.exe
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.exe.config
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.exe
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.pdb
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDELibrary.dll
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\WebDriver.dll
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\SeleniumExtras.WaitHelpers.dll
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDELibrary.pdb
+E:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\WebDriver.xml
+E:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.CopyComplete
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDELibrary.dll
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\WebDriver.dll
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDELibrary.pdb
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\WebDriver.xml
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csprojAssemblyReference.cache
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.AutomationIde.resources
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.Properties.Resources.resources
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.GenerateResource.cache
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.CoreCompileInputs.cache
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.exe
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.pdb
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\chromedriver.exe
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.exe.config
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.exe
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.pdb
+D:\Backup of drive\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.CopyComplete
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.exe.config
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.exe
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\AutomationIDE.pdb
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.AssemblyReference.cache
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.Properties.Resources.resources
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.GenerateResource.cache
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.CoreCompileInputs.cache
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.CopyComplete
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.exe
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.pdb
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.DocumentationPage.resources
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.AutomationIDEForm.resources
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\CSScriptLibrary.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\Microsoft.CodeAnalysis.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\Newtonsoft.Json.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Buffers.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Collections.Immutable.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Memory.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Numerics.Vectors.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Reflection.Metadata.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Text.Encoding.CodePages.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Text.Encodings.Web.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Text.Json.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\System.ValueTuple.xml
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.exe.config
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSRepos\VSStudio\C#\AutomationIDE\obj\Debug\AutomationIDE.csproj.Fody.CopyLocal.cache
+F:\VSRepos\VSStudio\C#\AutomationIDE\bin\Debug\Selenium.WebDriver.Extensions.xml
